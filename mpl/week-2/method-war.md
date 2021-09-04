@@ -21,7 +21,7 @@ Instead of standing on one another's shoulders, these varios authors are standin
 ## Other Methods
 
 * Heuristic
-  * Structured
+  * [Structured](structured-heuristic-method.md)
   * Object-Oriented
   * Unified Process
 

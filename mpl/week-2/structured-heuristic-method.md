@@ -10,7 +10,7 @@ Some popular structured method:
 
 - SADT (Structured Analysis & Design Technique)
 - SA/SD (Structured Design)
-- SSADM (System Analysis & Design Model)
+- [SSADM (System Analysis & Design Model)](ssadm.md)
 
 ## Pros
 
