@@ -4,6 +4,8 @@
 
 [Architecture](week-2/architecture.md)
 [Software Architecture](week-2/software-architecture.md)
+[Modifiability](week-2/modifiability.md)
+[Readability](week-2/readability.md)
 
 ## Reference
 
