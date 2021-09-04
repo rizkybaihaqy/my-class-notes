@@ -63,13 +63,12 @@ Properly documented architectures can function as an effective documentation for
 
 Examples of such patterns are Client-Server, Pipes and Filters, Data-based architectures, and others.
 
-In modern day architectures, the job of the architect comes down to mixing and matching existing sets of such readily
-available patterns to solve the problem at hand.
+In modern day architectures, the job of the architect comes down to mixing and matching existing sets of such readily available patterns to solve the problem at hand.
 
 ## Importance of Software Architecture
 
 - Architecture Selects Quality Attributes To Be Optimized For A System.
-- Architecture facilitates early - Modiprototyping.
+- Architecture facilitates early prototyping.
 - Architecture allows a system to be built component-wise.
 - Architecture helps to manage changes to the system.
 
